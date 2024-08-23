@@ -1,0 +1,31 @@
+{
+    "bgType": {
+    "type": "dropdown",
+    "value": 0,
+    "items": [
+      "Image",
+      "Video",
+      "Color"
+    ],
+    "text": "Background Type"
+  },
+  "videoSelect": {
+    "type":"folderDropdown",
+    "value":"sample.webm",
+    "text":"Select Video Background",
+    "filter":"*.webm",
+    "folder":"media/videos"
+  },
+  "imageSelect": {
+    "type":"folderDropdown",
+    "value":"north_cascades_sunset.jpg",
+    "text":"Select Image Background",
+    "filter":"*.jpg|*.png",
+    "folder":"media/images"
+  },
+  "backgroundColor": {
+    "text": "Select Color Background",
+    "type": "color",
+    "value": "#515C6B"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "AppVersion": "1.0.0",
+    "Title": "Hababi Lively Wallpaper",
+    "Thumbnail": "thumbnail.jpg",
+    "Preview": "preview.gif",
+    "Desc": "Hababi's Lively Wallpaper custom design",
+    "Author": "Hababi",
+    "License": "GNU GPLv3",
+    "Contact": "https://github.com/GitHababi",
+    "Type": 1,
+    "FileName": "index.html",
+    "Arguments": "--system-nowplaying",
+    "IsAbsolutePath": false,
+    "Id": null,
+    "Tags": null,
+    "Version": 0
+  }
